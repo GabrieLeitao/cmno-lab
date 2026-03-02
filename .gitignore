@@ -1,0 +1,40 @@
+# MATLAB temporary files
+*.asv
+*.mex*
+*.fig
+*.slxc
+*.slxautosave
+*.mdlautosave
+*.mltbx
+
+# MATLAB Editor backup files
+*~ 
+*.bak
+*.autosave
+
+# MATLAB project files (optional)
+*.prj
+*.mlproj
+
+# Simulink code generation outputs
+slprj/
+*_grt_rtw/
+*_ert_rtw/
+*_rtw/
+
+# MATLAB Cache
+.mexw64
+.mexmaci64
+.mexglx
+
+# Simulink simulation logs
+simlog/
+
+# Temporary plots
+*.fig
+
+# Ignore personal preferences
+*.mlprefs
+
+# Ignore compiled MATLAB files
+*.p
