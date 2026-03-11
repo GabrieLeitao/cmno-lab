@@ -21,6 +21,7 @@ slprj/
 *_grt_rtw/
 *_ert_rtw/
 *_rtw/
+*.slxc
 
 # MATLAB Cache
 .mexw64
